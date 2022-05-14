@@ -20,7 +20,6 @@ from ipywidgets import interact
 #lets read the datatset
 data=pd.read_csv('data.csv')
 
-
 # In[3]:
 
 
