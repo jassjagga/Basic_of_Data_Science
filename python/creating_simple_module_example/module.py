@@ -9,6 +9,6 @@ import simplefunction
 #eg import sys
 #sys.path.append("C:\pycode")
 #import simplefunction as fun
-#
+
 area = simplefunction.cal_squ_area(5)
 print(area)
