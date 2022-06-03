@@ -14,7 +14,6 @@ def gradient_descent(x,y):
         b_curr=b_curr - learning_rate *bd
         print("m-:{},    b-:{},    cost-:{} ,     interation-:{}".format(m_curr,b_curr,cost,i))
 
-
 x=np.array([1,2,3,4,5])
 y= ([5,7,9,11,13])
 
